@@ -1,0 +1,53 @@
+FFNN, hidden_dim=10, epochs=4
+========== Loading data ==========
+========== Vectorizing data ==========
+========== Training for 4 epochs ==========
+Training started for epoch 1
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.3945625
+Training time for this epoch: 24.479127883911133
+Validation started for epoch 1
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.315
+Validation time for this epoch: 0.30100226402282715
+
+Training started for epoch 2
+Training completed for epoch 2
+Training accuracy for epoch 2: 0.498375
+Training time for this epoch: 29.220282316207886
+Validation started for epoch 2
+Validation completed for epoch 2
+Validation accuracy for epoch 2: 0.39625
+Validation time for this epoch: 0.38500189781188965
+
+Training started for epoch 3
+Training completed for epoch 3
+Training accuracy for epoch 3: 0.5251875
+Training time for this epoch: 29.231239318847656
+Validation started for epoch 3
+Validation completed for epoch 3
+Validation accuracy for epoch 3: 0.53
+Validation time for this epoch: 0.3890035152435303
+
+Training started for epoch 4
+Training completed for epoch 4
+Training accuracy for epoch 4: 0.551125
+Training time for this epoch: 29.628646850585938
+Validation started for epoch 4
+Validation completed for epoch 4
+Validation accuracy for epoch 4: 0.5075
+Validation time for this epoch: 0.37200212478637695
+
+FFNN, hidden_dim=10, epochs=1
+========== Loading data ==========
+========== Vectorizing data ==========
+========== Training for 1 epochs ==========
+Training started for epoch 1
+Training completed for epoch 1
+Training accuracy for epoch 1: 0.3945625
+Training time for this epoch: 26.38515830039978
+Validation started for epoch 1
+Validation completed for epoch 1
+Validation accuracy for epoch 1: 0.315
+Validation time for this epoch: 0.37200045585632324
+
