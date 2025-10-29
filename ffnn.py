@@ -204,6 +204,4 @@ if __name__ == "__main__":
             print("Validation time for this epoch: {}".format(time.time() - start_time))
             print("Validation time for this epoch: {}".format(time.time() - start_time), file=output)
             print(file=output)
-
-    # write out to results/test.out
     
